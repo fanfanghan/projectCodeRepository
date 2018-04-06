@@ -1,1 +1,1 @@
-1.stop download
+shutup
